@@ -13,7 +13,7 @@ A responsive dashboard with dark mode support, and interactive metrics visualiza
 
 1. **Clone Repository**
    ```bash
-   git clone git repo link
+   git clone https://github.com/Algo53/vite-project.git
 
 2. **Install Dependencies**
    ```bash
